@@ -2,7 +2,7 @@
 
 Tracking the history of trees in Calgary.
 
-This repository [uses CircleCI](https://circleci.com/gh/simonw/sf-tree-history) to retrieve the [official CSV file of trees in San Francisco](https://data.sfgov.org/City-Infrastructure/Street-Tree-List/tkzw-k3nq) once a day and track any changes to it over time using the git commit history.
+This repository [uses CircleCI](https://circleci.com/gh/simonw/sf-tree-history) to retrieve the [official CSV file of trees in Calgary](https://data.calgary.ca/Environment/Public-Trees/tfs4-3wwa/data) once a day and track any changes to it over time using the git commit history.
 
 It uses [csv-diff](https://github.com/simonw/csv-diff) to generate human-readable commit messages.
 
